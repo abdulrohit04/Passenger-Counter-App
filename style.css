@@ -1,0 +1,60 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(static/bg-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+ 
+.container{
+    margin: 100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    opacity: .85;
+}
+
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius:5px ;
+    width: 200px;
+    cursor: pointer;
+}
+
+#increment-btn:hover {
+    
+    border: 3px solid #9b18bc;
+}
+
+#save-btn:hover {
+    
+    border: 3px solid #077c0f;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+#increment-btn{
+    background-color: darkslateblue;
+}
+
+#save-btn{
+    background-color: darkgreen;
+}
+
+
+
+p{
+    padding-bottom: 10px;
+}
