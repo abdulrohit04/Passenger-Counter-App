@@ -1,6 +1,6 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-image: url(static/bg-img.jpg);
+    background-image: url(bg-img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
